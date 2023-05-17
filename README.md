@@ -4,14 +4,16 @@
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
 
-# [Nome do Projeto]
+# River Clash
 
 ### 2023-01
 
 ## Integrantes
-- [Nome do integrante 1 e link do portifólio](https://github.com/tech-espm/)
-- [Nome do integrante 2 e link do portifólio](https://github.com/tech-espm/)
-- [Nome do integrante 3 e link do portifólio](https://github.com/tech-espm/)
+- [Andrezza Hamburgo de Freire](https://github.com/andrezzahfreire)
+- [Gabriel Fuzita Chaves](https://github.com/Garibaldo95)
+- [Lorena de Oliveira Guedes](https://github.com/lohgdds1)
+- [Matheus Asael Silva Macedo](https://github.com/M-asael)
+- [Vinicius Eduardo Tinoco da Silva](https://github.com/Vinicius-eng20)
 
 ## Descrição do Projeto
 
