@@ -5,7 +5,6 @@
 </p>
 
 # Projeto River Clash
-![Icone](C:\Users\andrezza.freire\Downloads\icone-transformed.png)
 
 ### 2023-01
 
