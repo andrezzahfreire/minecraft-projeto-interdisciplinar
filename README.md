@@ -4,9 +4,16 @@
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
 
+<div align="center">
+
 # Projeto River Clash
 
-![icone-transformed](https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/aa7a4b77-ac4b-4f1e-8140-70e8eac0da17)
+</div>
+
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/aa7a4b77-ac4b-4f1e-8140-70e8eac0da17" alt="icone-transformed"
+      width="200px">
+</p>
 
 ### 2023-01
 
