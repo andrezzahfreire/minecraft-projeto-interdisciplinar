@@ -6,6 +6,8 @@
 
 # Projeto River Clash
 
+![icone-transformed](https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/aa7a4b77-ac4b-4f1e-8140-70e8eac0da17)
+
 ### 2023-01
 
 ## Integrantes
