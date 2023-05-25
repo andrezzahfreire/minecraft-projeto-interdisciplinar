@@ -25,15 +25,15 @@
 - [Vinicius Eduardo Tinoco da Silva](https://github.com/Vinicius-eng20)
 
 ## Descrição do Projeto
-Equipe e responsabilidades
+### Equipe e responsabilidades
  
-Andrezza Hamburgo de Freire: Character Design
-Gabriel Fuzita Chaves: Character Design
-Lorena de Oliveira Guedes: Character Design
-Matheus Asael Silva Macedo: World builder
-Vinicius Eduardo Tinoco da Silva: World builder
+- Andrezza Hamburgo de Freire: Character Design
+- Gabriel Fuzita Chaves: Character Design
+- Lorena de Oliveira Guedes: Character Design
+- Matheus Asael Silva Macedo: World builder
+- Vinicius Eduardo Tinoco da Silva: World builder
 
-Sinopse do game:
+### Sinopse do game:
 Há muito tempo, em uma terra distante, existia uma única tribo que vivia em harmonia com a natureza e com a sua cultura. Essa tribo era composta por pessoas de diferentes etnias e culturas, mas que se uniam em torno de um mesmo ideal: a preservação da vida.
 
 Com o passar do tempo, a tribo começou a prosperar e a crescer. Novas ideias e tecnologias foram desenvolvidas, e a tribo tornou- se uma das mais avançadas do mundo. No entanto, com o crescimento, surgiram também os conflitos.
@@ -48,28 +48,29 @@ As tribos passaram a competir por um elemento em comum: a água. A região em qu
 
 Garantidos, por sua vez, acreditavam que a água deveria ser preservada e compartilhada de forma equitativa entre as tribos. Eles construíram sistemas de coleta de água da chuva e de armazenamento de água em cisternas, e defendiam que a água era um bem comum e não deveria ser privatizada.
 
-Problema Original:
+### Problema Original:
 Preservação da natureza e da cultura de forma lúdica através de um addon para minecraft education.
 
-Objetivo Final:
+### Objetivo Final:
 Criação de um addon que de forma lúdica possa passar a importancia da preservação dos recursos naturais
 principalmente a água e cultura através a inserção de elemetos do festival flocórico de parintins.
 
-Objetivos de game design
+### Objetivos de game design
 "River Clash" é um jogo educacional baseado em Minecraft Education Edition, projetado para transmitir de forma lúdica a importância da preservação da natureza e da cultura, com ênfase na conservação dos recursos hídricos. O jogo apresenta duas tribos distintas, os "Caprichosos" e os "Garantidos", que competem pela escassa água em uma região seca. Os jogadores são convidados a enfrentar desafios e decisões relacionados à preservação da água e às tradições culturais. O jogo busca conscientizar os jogadores sobre a importância da preservação da água e da cultura, promovendo a reflexão sobre as diferentes abordagens adotadas pelas tribos Caprichosos e Garantidos. Os jogadores aprenderão sobre a escassez de recursos naturais, os impactos da tecnologia na natureza, a valorização das tradições culturais e a importância do uso responsável da água.
-Palavras-chave
+
+### Palavras-chave
 Preservação; cultura; natureza; educacional
 
-Plataformas
+### Plataformas
 Mobile (Apple e Android) e PC (Steam)
 
-Público-Alvo
+### Público-Alvo
 O público-alvo desse jogo é composto por jogadores jovens e adolescentes interessados em jogos educacionais e de construção, especialmente aqueles que têm afinidade com o universo do Minecraft. O jogo busca atingir um público preocupado com questões ambientais e culturais, que esteja aberto a refletir sobre a importância da preservação da natureza e da valorização das tradições culturais. Além disso, o jogo pode ser adequado para estudantes e educadores que desejam explorar tópicos relacionados à sustentabilidade, recursos hídricos e diversidade cultural de forma interativa e envolvente.
 
-Roteiro 
+### Roteiro 
 Em "River Clash", os jogadores são transportados para uma terra distante onde uma única tribo vivia em harmonia com a natureza e cultura. Conforme a tribo prospera, surgem divergências em relação ao uso da tecnologia e sua influência no meio ambiente. Os jogadores são convidados a explorar as perspectivas das tribos Caprichosos e Garantidos, mergulhando em suas histórias, desafios e valores.A jornada busca promover a reflexão sobre a importância da preservação da natureza e da valorização das tradições culturais, enquanto os jogadores mergulham em um conflito envolvente e exploram estratégias para superar os desafios apresentados.
 
-Personagens
+### Personagens
 
 # Licença
 
