@@ -25,9 +25,6 @@
 - [Vinicius Eduardo Tinoco da Silva](https://github.com/Vinicius-eng20)
 
 ## Descrição do Projeto
-
-Descrição do projeto, incluindo o problema original, e o objetivo final. 
-
 Enredo:
 Há muito tempo, em uma terra distante, existia uma única tribo que vivia em harmonia com a
 natureza e com a sua cultura. Essa tribo era composta por pessoas de diferentes etnias e
