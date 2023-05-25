@@ -71,7 +71,104 @@ O público-alvo desse jogo é composto por jogadores jovens e adolescentes inter
 Em "River Clash", os jogadores são transportados para uma terra distante onde uma única tribo vivia em harmonia com a natureza e cultura. Conforme a tribo prospera, surgem divergências em relação ao uso da tecnologia e sua influência no meio ambiente. Os jogadores são convidados a explorar as perspectivas das tribos Caprichosos e Garantidos, mergulhando em suas histórias, desafios e valores.A jornada busca promover a reflexão sobre a importância da preservação da natureza e da valorização das tradições culturais, enquanto os jogadores mergulham em um conflito envolvente e exploram estratégias para superar os desafios apresentados.
 
 ### Personagens
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/8cf524e5-7ac5-401c-8bf9-8e2b6767a149">
+</p>
+<p align="center">
+  <b>Amo do boi garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/aebdb8c4-43d2-47aa-b921-e6d8a6c4f3ba">
+</p>
+<p align="center">
+  <b>Amo do boi caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/97c3d389-39ce-40e7-b5f3-b74144f8dd06">
+</p>
+<p align="center">
+  <b>Levantador de toada caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/d82f0a79-dede-478b-b306-fec6450a1ec9">
+</p>
+<p align="center">
+  <b>Levantador de toada garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/1e2ae7bf-98c3-45d9-945d-cb6699580ff0">
+</p>
+<p align="center">
+  <b>Tribo Indígena caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/9b6a88a2-1ed3-4e30-8329-f169eb194759">
+</p>
+<p align="center">
+  <b>Tribo Indígena garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/eb286b61-451e-49ee-bb76-c1ea1623e4c0">
+</p>
+<p align="center">
+  <b>Cunhã Poranga caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/911680a5-1350-442b-94fc-3711577aba42">
+</p>
+<p align="center">
+  <b>Cunhã Poranga garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/c8093740-0afe-4f07-8cf0-4cc45881ec63">
+</p>
+<p align="center">
+  <b>Pajé caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/8ea674c3-7c15-4057-abb8-7e8dcd8b9756">
+</p>
+<p align="center">
+  <b>Cunhã Poranga garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/7b208727-b17e-45aa-92ec-210311f69c95">
+</p>
+<p align="center">
+  <b>Porta-estandarte garantido</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/2a03d993-5b7a-4815-9702-4494ffb5d226">
+</p>
 
+<p align="center">
+  <b>Porta-estandarte caprichoso</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/0be894b7-3b3b-46c1-bd75-dcbd31ddcdc8">
+</p>
+<p align="center">
+  <b>Sinhazinha caprichosa</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/a22242e4-ba75-4ca8-9cff-659949155ea9">
+</p>
+<p align="center">
+  <b>Sinhazinha garantida</b>
+</p>
+<p align="center">
+  <img src="https://github.com/andrezzahfreire/minecraft-projeto-interdisciplinar/assets/100586467/46d86b99-4e53-40f0-b8f9-999679d50bb1">
+</p>
+<p align="center">
+ boto cor de rosa 
+</p>
+
+<p align="center">
+  <b>Rainha do folclore garantido</b>
+</p>
+<p align="center">
+  <b>Rainha do folclore caprichoso</b>
+</p>
 # Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/misc-template/blob/main/LICENSE).
